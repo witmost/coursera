@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(245, 217, 214);
+}
+.navbar{
+    box-sizing: border-box;
+    background-color: rgb(235, 136, 15);
+    border-bottom: 5px solid rgb(19, 17, 17);
+}
+.navbar-brand{
+    font-size: calc(1.325rem + 2.9vw);
+    text-align:left ;
+    margin-left: 75px;
+    font-weight: 500;
+}
+.navbar-toggler{
+    background-color: rgb(245, 217, 214);
+    margin-right: 20px;
+   
+    
+}
+.navbar-toggler-icon{
+    height: 1.5em;
+    width: 1.4em;
+}
+.nav-link{
+
+    text-align: center;
+    font-size: xx-large;
+    background-color: rgb(245, 217, 214);
+    border-bottom: 3px solid black;
+}
+.text-center{
+    font-size: calc(1.156rem + 2.9vw);
+    font-weight: 500;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.container-fluid{
+    width: auto;
+    background-color: rgb(218, 140, 46);
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#chicken{
+    text-align: center;
+    font-size:calc(1.325rem + 1vw);
+}
+#Fish{
+    text-align: center;
+    font-size:calc(1.325rem + 1vw);
+}
+#Susi{
+    text-align: center;
+    font-size:calc(1.325rem + 1vw);
+}
+p{
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: calc(1rem + 0.75vw);
+}
